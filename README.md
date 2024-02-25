@@ -5,7 +5,7 @@
 
 Relógio Digital é uma aplicação web construída para indicar horas, minutos e segundos em tempo real.
 
-# Como executar
+# Como executar:
 No terminal:
  - Clone o projeto: git clone github.com/matheusthierri/relogio-digital
  - Vá até a pasta do projeto e execute em página web: index.html
